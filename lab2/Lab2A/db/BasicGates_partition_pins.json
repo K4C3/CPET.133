@@ -1,0 +1,37 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Y_NOT",
+					"strict" : false
+				},
+				{
+					"name" : "Y_AND",
+					"strict" : false
+				},
+				{
+					"name" : "Y_OR",
+					"strict" : false
+				},
+				{
+					"name" : "Y_NAND",
+					"strict" : false
+				},
+				{
+					"name" : "Y_NOR",
+					"strict" : false
+				},
+				{
+					"name" : "A",
+					"strict" : false
+				},
+				{
+					"name" : "B",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

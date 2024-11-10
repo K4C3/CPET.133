@@ -1,0 +1,30 @@
+|Hexidecimal
+a <= inst19.DB_MAX_OUTPUT_PORT_TYPE
+Y => inst3.IN0
+Y => inst17.IN0
+Y => inst2.IN1
+Y => inst6.IN1
+Y => inst9.IN0
+W => inst3.IN1
+W => inst4.IN1
+Z => inst3.IN2
+Z => inst16.IN0
+Z => inst7.IN2
+Z => inst6.IN2
+Z => inst10.IN1
+Z => inst14.IN2
+b <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst18.IN0
+X => inst7.IN0
+X => inst11.IN0
+X => inst13.IN0
+X => inst10.IN0
+X => inst15.IN0
+X => inst14.IN0
+c <= inst20.DB_MAX_OUTPUT_PORT_TYPE
+d <= inst45.DB_MAX_OUTPUT_PORT_TYPE
+e <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+f <= inst21.DB_MAX_OUTPUT_PORT_TYPE
+g <= inst22.DB_MAX_OUTPUT_PORT_TYPE
+
+

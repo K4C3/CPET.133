@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, S:/Kyarah Chery_ CPET133labs/Lab Comp/db/labcomp.bdf
+source_file = 1, S:/Kyarah Chery_ CPET133labs/Lab Comp/db/labcomp.cbx.xml
+design_name = labcomp
+instance = comp, \F~output\, F~output, labcomp, 1
+instance = comp, \X~input\, X~input, labcomp, 1
+instance = comp, \Y~input\, Y~input, labcomp, 1
+instance = comp, \Z~input\, Z~input, labcomp, 1
+instance = comp, \W~input\, W~input, labcomp, 1
+instance = comp, \inst8~0\, inst8~0, labcomp, 1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, labcomp, 1

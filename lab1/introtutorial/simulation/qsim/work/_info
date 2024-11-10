@@ -1,0 +1,108 @@
+m255
+K4
+z2
+!s11e vcom 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dS:/Kyarah Chery_ CPET133labs/lab1/introtutorial/simulation/qsim
+T_opt
+Z1 !s110 1731198612
+VcidlK2=kAbhNz_C4E[n@_2
+04 18 11 work lights_vhd_vec_tst lights_arch 1
+=1-00be439030f9-672ffe94-15c-37c8
+o-quiet -auto_acc_if_foreign -work work -L cyclonev -L altera -L altera_mf -L sgate -L altera_lnsim +acc
+tCvgOpt 0
+n@_opt
+OL;O;2019.2;69
+Elights
+Z2 w1731198610
+Z3 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z4 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 Y`9V05GdI;MMnoH[:2Jhb0
+Z5 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z6 DPx8 cyclonev 19 cyclonev_components 0 22 YY0j`BJ:kSE=:gJ7bIkV60
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z9 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 nAoKSOa;D;jz990:;R98f1
+R0
+Z10 8lights.vho
+Z11 Flights.vho
+l0
+L36
+VCADFEBZT3mY`V56aWVb[Y1
+!s100 TH>fDfd6miUP?4NX7nj^21
+Z12 OL;C;2019.2;69
+32
+Z13 !s110 1731198611
+!i10b 1
+Z14 !s108 1731198611.000000
+Z15 !s90 -work|work|lights.vho|
+Z16 !s107 lights.vho|
+!i113 0
+Z17 o-work work
+Z18 tExplicit 1 CvgOpt 0
+Astructure
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 6 lights 0 22 CADFEBZT3mY`V56aWVb[Y1
+l70
+L50
+V8Adz5ONJQYJiZd4SO_Y0H3
+!s100 _]AM^FI9in9S6NfK]VM?00
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Elights_vhd_vec_tst
+Z19 w1731198609
+R7
+R8
+R0
+Z20 8../lights.vwf.vht
+Z21 F../lights.vwf.vht
+l0
+L31
+V^Sg25CL:Z`W2COOPzBZ[]3
+!s100 o7nkQj4eTSRTlC<D8d3hm2
+R12
+32
+R1
+!i10b 1
+R14
+Z22 !s90 -work|work|../lights.vwf.vht|
+Z23 !s107 ../lights.vwf.vht|
+!i113 0
+R17
+R18
+Alights_arch
+R7
+R8
+DEx4 work 18 lights_vhd_vec_tst 0 22 ^Sg25CL:Z`W2COOPzBZ[]3
+l46
+L33
+V=zbS<Iid?SoZLCi=Zh_QP1
+!s100 GjkoGOENb3FbKA6^JZo:Y2
+R12
+32
+R1
+!i10b 1
+R14
+R22
+R23
+!i113 0
+R17
+R18
